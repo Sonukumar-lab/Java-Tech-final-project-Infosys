@@ -7,24 +7,24 @@
   <test thread-count="5" name="MilestoneFourTests(failed)" verbose="2">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.milestone.four.pagestest.AddRemoveElementsTest">
+      <class name="com.milestone.four.pagestest.ABTestingTest">
         <methods>
           <include name="beforeClass"/>
+          <include name="verifyABTestLink"/>
+          <include name="afterSuite"/>
+          <include name="verifyABTestContent"/>
+          <include name="verifyABTestHeader"/>
+        </methods>
+      </class> <!-- com.milestone.four.pagestest.ABTestingTest -->
+      <class name="com.milestone.four.pagestest.AddRemoveElementsTest">
+        <methods>
           <include name="verifyAddRemovePageUrl"/>
+          <include name="beforeClass"/>
           <include name="afterSuite"/>
           <include name="verifyDeleteElementFunctionality"/>
           <include name="verifyAddElementFunctionality"/>
         </methods>
       </class> <!-- com.milestone.four.pagestest.AddRemoveElementsTest -->
-      <class name="com.milestone.four.pagestest.ABTestingTest">
-        <methods>
-          <include name="beforeClass"/>
-          <include name="verifyABTestContent"/>
-          <include name="verifyABTestLink"/>
-          <include name="afterSuite"/>
-          <include name="verifyABTestHeader"/>
-        </methods>
-      </class> <!-- com.milestone.four.pagestest.ABTestingTest -->
     </classes>
   </test> <!-- MilestoneFourTests(failed) -->
 </suite> <!-- Failed suite [MilestoneFourSuite] -->
