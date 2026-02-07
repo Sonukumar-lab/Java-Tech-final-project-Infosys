@@ -1,0 +1,115 @@
+# Agile Project Execution Document
+
+## Project Title
+**Java Batch Final Project – Milestone Four**
+
+## Project Duration
+**15 January 2026 – 28 January 2026**
+
+## Development Methodology
+**Agile Methodology**  
+(Iterative and Incremental Development Approach)
+
+## Technology Stack
+- Java  
+- Maven  
+- Eclipse IDE, IntelliJ IDEA  
+- Git & GitHub  
+
+---
+
+## Sprint 1 – Requirement Analysis & Planning
+**Date:** 15 January 2026
+
+### Activities Performed
+- Analyzed the milestone problem statement in detail  
+- Understood functional and non-functional requirements  
+- Identified project modules and overall structure  
+- Finalized development tools and technologies  
+
+### Outcome
+- Clear understanding of project scope, requirements, and execution strategy  
+
+---
+
+## Sprint 2 – Project Setup & Environment Configuration
+**Date:** 16 January 2026
+
+### Activities Performed
+- Created Maven-based project structure  
+- Configured `pom.xml` with required dependencies  
+- Set up source and test directories  
+- Initialized Git repository for version control  
+
+### Outcome
+- Project environment and base structure successfully prepared  
+
+---
+
+## Sprint 3 – Core Application Development
+**Date:** 18 January 2026
+
+### Activities Performed
+- Implemented core Java classes  
+- Developed business logic and workflows  
+- Created the main execution flow of the application  
+- Followed modular and clean coding practices  
+
+### Outcome
+- Core application functionality implemented successfully  
+
+---
+
+## Sprint 4 – Testing & Validation
+**Date:** 21 January 2026
+
+### Activities Performed
+- Created test classes under `src/test/java`  
+- Performed unit testing to validate functionality  
+- Identified and fixed logical and runtime errors  
+- Improved code quality and performance  
+
+### Outcome
+- Application tested, validated, and stabilized  
+
+---
+
+## Sprint 5 – Version Control & Repository Management
+**Date:** 24 January 2026
+
+### Activities Performed
+- Cleaned and organized Git commit history  
+- Created a new GitHub repository  
+- Pushed project with meaningful commits  
+- Maintained a clean and structured repository layout  
+
+### Outcome
+- Project successfully version-controlled and hosted on GitHub  
+
+---
+
+## Sprint 6 – Documentation & Licensing
+**Date:** 27 January 2026
+
+### Activities Performed
+- Created a detailed README file  
+- Added MIT License to the project  
+- Prepared Agile project execution documentation  
+- Performed final code review  
+
+### Outcome
+- Project fully documented and ready for final submission  
+
+---
+
+## Final Project Status
+**Date:** 28 January 2026
+
+- All milestone requirements successfully completed  
+- Project developed following Agile methodology  
+- Source code and documentation uploaded to GitHub  
+
+---
+
+## Conclusion
+This project was developed using the Agile methodology, enabling iterative development, continuous testing, and timely delivery. The structured sprint-wise approach ensured quality implementation, proper documentation, and successful completion of the milestone.
